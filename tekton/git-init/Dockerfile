@@ -1,0 +1,1 @@
+FROM  gcriotekton/pipeline-git-init:v0.44.4

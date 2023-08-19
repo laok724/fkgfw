@@ -1,0 +1,1 @@
+FROM gcmirrors/busybox:latest

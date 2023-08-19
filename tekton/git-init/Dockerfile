@@ -1,1 +1,1 @@
-FROM  cnych/tekton-git-init:v0.24.1
+FROM  cnych/tekton-git-init:v0.29.0

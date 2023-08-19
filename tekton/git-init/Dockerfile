@@ -1,1 +1,1 @@
-FROM  gcriotekton/pipeline-git-init:v0.44.4
+FROM  cnych/tekton-git-init:v0.24.1
